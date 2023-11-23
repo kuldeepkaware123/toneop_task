@@ -1,0 +1,12 @@
+.price-section {
+  margin-top: -700px;
+  z-index: 100;
+}
+.price-section .row {
+  background-color: aliceblue;
+  position: relative;
+}
+
+.poster {
+  z-index: -99;
+}
