@@ -42,4 +42,4 @@ class FirebaseDB
 }
 
 // Initialize FirebaseDB with your Firebase Realtime Database URL and API key
-$firebaseDB = new FirebaseDB('https://toneop-1293e-default-rtdb.asia-southeast1.firebasedatabase.app/', 'AIzaSyB2VmrBFUmtx9mlxkPfl7HgwR8nJ9vld4c');
+$firebaseDB = new FirebaseDB('database URL, 'API key');
